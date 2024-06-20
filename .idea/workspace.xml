@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff0cf137-52ef-45d4-a957-b3682c0ce9d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/labingdatos_jupyter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPTs/Semana_06-Laboratorio.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semana05_lab.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Empleado.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labdatos2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labdatosgaaa.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/Semana05.2_lab.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/Semana06_lab.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semana05_lab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/Semana05_lab.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labdatos2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/labdatos2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labdatosgaaa.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +51,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hugo\Desktop\SISTEMAS\ING. DATOS\lab_ingdatos\labingdatos_jupyter\jupyter" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="labingdatos_jupyter" />
@@ -102,7 +99,7 @@
       <updated>1718371121016</updated>
       <workItem from="1718371122420" duration="3508000" />
       <workItem from="1718374696900" duration="4473000" />
-      <workItem from="1718900833958" duration="5025000" />
+      <workItem from="1718900833958" duration="7194000" />
     </task>
     <servers />
   </component>
